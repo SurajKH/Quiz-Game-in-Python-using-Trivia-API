@@ -1,5 +1,4 @@
-
-Quiz Game in Python using Trivia API
+#Quiz Game in Python using Trivia API
 
 1.We have basically considered trivia api to render the quiz questions and answers for our game
 
