@@ -1,5 +1,6 @@
 
 Quiz Game in Python using Trivia API
+
 1.We have basically considered trivia api to render the quiz questions and answers for our game
 
 2.We need an API Key to basically access all the questions and answers under trivia api
